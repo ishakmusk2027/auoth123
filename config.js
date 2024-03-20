@@ -6,9 +6,9 @@ module.exports = {
     ClientId: "1215378242773581864",    // ايدي البوت
     serverinvte: "https://discord.gg/qmgmxrTK9W ", // انفايت سيرفر
     clientSECRET: process.env.client, // سكريت
-    callbackURL: "https://auth113.onrender.com/login", // الكال باك
+    callbackURL: "https://auoth123.onrender.com/login", // الكال باك
     inviteBotUrl: "https://discord.com/oauth2/authorize?client_id=1215378242773581864&permissions=8&scope=bot", // انفايت البوت
-    TheLinkVerfy: 'https://discord.com/oauth2/authorize?client_id=1215378242773581864&response_type=code&redirect_uri=https%3A%2F%2Fauth113.onrender.com%2Flogin&scope=identify+guilds.join+guilds', // رابط اوثو رايز بالصلاحيه ادخال الي سيرفرات
+    TheLinkVerfy: 'https://discord.com/oauth2/authorize?client_id=1215378242773581864&response_type=code&redirect_uri=https%3A%2F%2Fauoth123.onrender.com%2Flogin&scope=identify+guilds.join+guilds', // رابط اوثو رايز بالصلاحيه ادخال الي سيرفرات
     prefix: 'b', 
     ceatogry: '1215722518074097664', // كاتوجري الي يفتح فيها تكت شراء
     TOKEN: (process.env.midd), // توكن 
